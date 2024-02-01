@@ -1,7 +1,0 @@
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\bin\Debug\Question 5.exe.config
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\bin\Debug\Question 5.exe
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\bin\Debug\Question 5.pdb
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\obj\Debug\Question 5.csproj.AssemblyReference.cache
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\obj\Debug\Question 5.csproj.CoreCompileInputs.cache
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\obj\Debug\Question 5.exe
-C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Question 5\Question 5\obj\Debug\Question 5.pdb
