@@ -1,0 +1,7 @@
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\obj\Debug\Question 2.csproj.AssemblyReference.cache
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\bin\Debug\Question 2.exe.config
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\bin\Debug\Question 2.exe
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\bin\Debug\Question 2.pdb
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\obj\Debug\Question 2.exe
+C:\Users\Wathsara Kalhara\OneDrive - NSBM\Documents\NSBM\Y1S3\C#\Lab\Labsheet 2\Question 2\Question 2\obj\Debug\Question 2.pdb
